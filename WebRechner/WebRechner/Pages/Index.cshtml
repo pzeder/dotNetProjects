@@ -1,0 +1,78 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<div class="text-center">
+    <h1 id="display" class="display-4"> @(Model.InputText) </h1>
+    <div>
+        <button onClick="deleteSymbol()"> delete </button>
+        <button onClick="clearInput()"> clear </button>
+    </div>
+    <div>
+        <button onClick="addSymbol('0')"> 0 </button>
+        <button onClick="addSymbol('1')"> 1 </button>
+        <button onClick="addSymbol('2')"> 2 </button>
+    </div>
+    <div>
+        <button onClick="addSymbol('3')"> 3 </button>
+        <button onClick="addSymbol('4')"> 4 </button>
+        <button onClick="addSymbol('5')"> 5 </button>
+    </div>
+    <div>
+        <button onClick="addSymbol('6')"> 6 </button>
+        <button onClick="addSymbol('7')"> 7 </button>
+        <button onClick="addSymbol('8')"> 8 </button>
+    </div>
+    <div>
+        <button onClick="addSymbol('9')"> 9 </button>
+        <button onClick="addSymbol(' + ')"> + </button>
+        <button onClick="addSymbol(' - ')"> - </button>
+    </div>
+    <div>
+        <button onClick="addSymbol(' POP ')"> POP </button>
+        <button onClick="addSymbol(' DUP ')"> DUP </button>
+        <button onClick="addSymbol(' ')"> _ </button>
+    </div>
+    <form method="post" onsubmit="return setInputText()">
+        <button type="submit" id="submitButton" name="inputText"> = </button>
+    </form>
+</div>
+
+<!-- JavaScript section -->
+@section Scripts {
+    <script>
+        let inputText = document.getElementById("display").innerText;
+
+        function addSymbol(symbol) {
+            inputText += symbol;
+            updateDisplay();
+        }
+
+        function deleteSymbol() {
+            if (inputText.length == 0) return;
+            inputText = inputText.substring(0, inputText.length - 1);
+            updateDisplay();
+        }
+
+        function clearInput() {
+            inputText = "";
+            updateDisplay();
+        }
+
+        function updateDisplay() {
+            document.getElementById("display").innerText = inputText;
+        }
+
+        function getInputText() {
+            return inputText;
+        }
+
+        function setInputText() {
+            document.getElementById("submitButton").value = inputText;
+            return true;
+        }
+    </script>
+}

@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PhilippeZeder\\source\\repos\\WebNotes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22CAE22A-82CB-4D0C-93BD-D80D52C0B796}|WebNotes\\WebNotes.csproj|c:\\users\\philippezeder\\source\\repos\\webnotes\\webnotes\\pages\\notes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22CAE22A-82CB-4D0C-93BD-D80D52C0B796}|WebNotes\\WebNotes.csproj|solutionrelative:webnotes\\pages\\notes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CAE22A-82CB-4D0C-93BD-D80D52C0B796}|WebNotes\\WebNotes.csproj|c:\\users\\philippezeder\\source\\repos\\webnotes\\webnotes\\pages\\notes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22CAE22A-82CB-4D0C-93BD-D80D52C0B796}|WebNotes\\WebNotes.csproj|solutionrelative:webnotes\\pages\\notes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CAE22A-82CB-4D0C-93BD-D80D52C0B796}|WebNotes\\WebNotes.csproj|c:\\users\\philippezeder\\source\\repos\\webnotes\\webnotes\\pages\\notes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22CAE22A-82CB-4D0C-93BD-D80D52C0B796}|WebNotes\\WebNotes.csproj|solutionrelative:webnotes\\pages\\notes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CAE22A-82CB-4D0C-93BD-D80D52C0B796}|WebNotes\\WebNotes.csproj|c:\\users\\philippezeder\\source\\repos\\webnotes\\webnotes\\migrations\\20240711134624_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CAE22A-82CB-4D0C-93BD-D80D52C0B796}|WebNotes\\WebNotes.csproj|solutionrelative:webnotes\\migrations\\20240711134624_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CAE22A-82CB-4D0C-93BD-D80D52C0B796}|WebNotes\\WebNotes.csproj|c:\\users\\philippezeder\\source\\repos\\webnotes\\webnotes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CAE22A-82CB-4D0C-93BD-D80D52C0B796}|WebNotes\\WebNotes.csproj|solutionrelative:webnotes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CAE22A-82CB-4D0C-93BD-D80D52C0B796}|WebNotes\\WebNotes.csproj|c:\\users\\philippezeder\\source\\repos\\webnotes\\webnotes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22CAE22A-82CB-4D0C-93BD-D80D52C0B796}|WebNotes\\WebNotes.csproj|solutionrelative:webnotes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CAE22A-82CB-4D0C-93BD-D80D52C0B796}|WebNotes\\WebNotes.csproj|c:\\users\\philippezeder\\source\\repos\\webnotes\\webnotes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CAE22A-82CB-4D0C-93BD-D80D52C0B796}|WebNotes\\WebNotes.csproj|solutionrelative:webnotes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CAE22A-82CB-4D0C-93BD-D80D52C0B796}|WebNotes\\WebNotes.csproj|c:\\users\\philippezeder\\source\\repos\\webnotes\\webnotes\\data\\webnotesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CAE22A-82CB-4D0C-93BD-D80D52C0B796}|WebNotes\\WebNotes.csproj|solutionrelative:webnotes\\data\\webnotesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CAE22A-82CB-4D0C-93BD-D80D52C0B796}|WebNotes\\WebNotes.csproj|c:\\users\\philippezeder\\source\\repos\\webnotes\\webnotes\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22CAE22A-82CB-4D0C-93BD-D80D52C0B796}|WebNotes\\WebNotes.csproj|solutionrelative:webnotes\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CAE22A-82CB-4D0C-93BD-D80D52C0B796}|WebNotes\\WebNotes.csproj|c:\\users\\philippezeder\\source\\repos\\webnotes\\webnotes\\webnotes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22CAE22A-82CB-4D0C-93BD-D80D52C0B796}|WebNotes\\WebNotes.csproj|solutionrelative:webnotes\\webnotes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240711134624_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\PhilippeZeder\\source\\repos\\WebNotes\\WebNotes\\Migrations\\20240711134624_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebNotes\\Migrations\\20240711134624_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\PhilippeZeder\\source\\repos\\WebNotes\\WebNotes\\Migrations\\20240711134624_InitialCreate.cs",
+              "RelativeToolTip": "WebNotes\\Migrations\\20240711134624_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:47:00.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PhilippeZeder\\source\\repos\\WebNotes\\WebNotes\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebNotes\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PhilippeZeder\\source\\repos\\WebNotes\\WebNotes\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebNotes\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T12:29:51.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PhilippeZeder\\source\\repos\\WebNotes\\WebNotes\\Pages\\Notes\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebNotes\\Pages\\Notes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PhilippeZeder\\source\\repos\\WebNotes\\WebNotes\\Pages\\Notes\\Index.cshtml",
+              "RelativeToolTip": "WebNotes\\Pages\\Notes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T12:16:57.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PhilippeZeder\\source\\repos\\WebNotes\\WebNotes\\Pages\\Notes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebNotes\\Pages\\Notes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PhilippeZeder\\source\\repos\\WebNotes\\WebNotes\\Pages\\Notes\\Delete.cshtml",
+              "RelativeToolTip": "WebNotes\\Pages\\Notes\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T12:15:35.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PhilippeZeder\\source\\repos\\WebNotes\\WebNotes\\Pages\\Notes\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebNotes\\Pages\\Notes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PhilippeZeder\\source\\repos\\WebNotes\\WebNotes\\Pages\\Notes\\Create.cshtml",
+              "RelativeToolTip": "WebNotes\\Pages\\Notes\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T12:15:06.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebNotes.csproj",
+              "DocumentMoniker": "C:\\Users\\PhilippeZeder\\source\\repos\\WebNotes\\WebNotes\\WebNotes.csproj",
+              "RelativeDocumentMoniker": "WebNotes\\WebNotes.csproj",
+              "ToolTip": "C:\\Users\\PhilippeZeder\\source\\repos\\WebNotes\\WebNotes\\WebNotes.csproj",
+              "RelativeToolTip": "WebNotes\\WebNotes.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T11:57:04.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PhilippeZeder\\source\\repos\\WebNotes\\WebNotes\\Program.cs",
+              "RelativeDocumentMoniker": "WebNotes\\Program.cs",
+              "ToolTip": "C:\\Users\\PhilippeZeder\\source\\repos\\WebNotes\\WebNotes\\Program.cs",
+              "RelativeToolTip": "WebNotes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:48:12.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PhilippeZeder\\source\\repos\\WebNotes\\WebNotes\\appsettings.json",
+              "RelativeDocumentMoniker": "WebNotes\\appsettings.json",
+              "ToolTip": "C:\\Users\\PhilippeZeder\\source\\repos\\WebNotes\\WebNotes\\appsettings.json",
+              "RelativeToolTip": "WebNotes\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T11:47:53.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebNotesDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\PhilippeZeder\\source\\repos\\WebNotes\\WebNotes\\Data\\WebNotesDBContext.cs",
+              "RelativeDocumentMoniker": "WebNotes\\Data\\WebNotesDBContext.cs",
+              "ToolTip": "C:\\Users\\PhilippeZeder\\source\\repos\\WebNotes\\WebNotes\\Data\\WebNotesDBContext.cs",
+              "RelativeToolTip": "WebNotes\\Data\\WebNotesDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:44:50.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\PhilippeZeder\\source\\repos\\WebNotes\\WebNotes\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "WebNotes\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\PhilippeZeder\\source\\repos\\WebNotes\\WebNotes\\Models\\Note.cs",
+              "RelativeToolTip": "WebNotes\\Models\\Note.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:43:04.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+﻿@page
+<div class="container">
+    <div class="row p-1" style="margin-top: 5vh">
+        <div class="col-1">User</div>
+        <div class="col-5"><input type="text" id="userInput" /></div>
+    </div>
+    <div class="row p-1">
+        <div class="col-6">
+            <hr />
+        </div>
+    </div>
+    <div class="row p-1">
+        <div class="col-6">
+            <ul id="messagesList"></ul>
+        </div>
+    </div>
+    <div style="width: 100vw; height: 5vh"> </div>
+    <div class="footbar">
+        <div class="row p-1">
+            <div class="col-5"><input type="text" style="width: 60vw" id="messageInput" /></div>
+        </div>
+        <div class="row p-1">
+            <div class="col-6 text-end">
+                <input type="button" id="sendButton" value="Send" />
+            </div>
+        </div>
+        <div class="row p-1">
+            <div class="col-6 text-end">
+                <input type="button" id="waveButton" value="&#x1F44B;" />
+            </div>
+        </div>
+        <div class="row p-1">
+            <div class="col-6 text-end">
+                <input type="button" id="minusButton" value="-" />
+            </div>
+        </div>
+        <div class="row p-1">
+            <div class="col-6 text-end">
+                <input type="button" id="plusButton" value="+" />
+            </div>
+        </div>
+    </div>
+</div>
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/chat.js"></script>
+<script src="~/js/DOMPurify.js"></script>
+<style>
+    .footbar {
+        display:flex;
+        height: 10vh;
+        position: fixed;
+        bottom: 0;
+    }
+</style>

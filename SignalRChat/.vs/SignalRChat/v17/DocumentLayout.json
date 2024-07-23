@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PhilippeZeder\\source\\repos\\SignalRChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9369267-BD89-420E-994C-D1D73768DB5D}|SignalRChat\\SignalRChat.csproj|c:\\users\\philippezeder\\source\\repos\\signalrchat\\signalrchat\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F9369267-BD89-420E-994C-D1D73768DB5D}|SignalRChat\\SignalRChat.csproj|solutionrelative:signalrchat\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9369267-BD89-420E-994C-D1D73768DB5D}|SignalRChat\\SignalRChat.csproj|c:\\users\\philippezeder\\source\\repos\\signalrchat\\signalrchat\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9369267-BD89-420E-994C-D1D73768DB5D}|SignalRChat\\SignalRChat.csproj|solutionrelative:signalrchat\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9369267-BD89-420E-994C-D1D73768DB5D}|SignalRChat\\SignalRChat.csproj|c:\\users\\philippezeder\\source\\repos\\signalrchat\\signalrchat\\wwwroot\\js\\dompurify.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F9369267-BD89-420E-994C-D1D73768DB5D}|SignalRChat\\SignalRChat.csproj|solutionrelative:signalrchat\\wwwroot\\js\\dompurify.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9369267-BD89-420E-994C-D1D73768DB5D}|SignalRChat\\SignalRChat.csproj|c:\\users\\philippezeder\\source\\repos\\signalrchat\\signalrchat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9369267-BD89-420E-994C-D1D73768DB5D}|SignalRChat\\SignalRChat.csproj|solutionrelative:signalrchat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DOMPurify.js",
+              "DocumentMoniker": "C:\\Users\\PhilippeZeder\\source\\repos\\SignalRChat\\SignalRChat\\wwwroot\\js\\DOMPurify.js",
+              "RelativeDocumentMoniker": "SignalRChat\\wwwroot\\js\\DOMPurify.js",
+              "ToolTip": "C:\\Users\\PhilippeZeder\\source\\repos\\SignalRChat\\SignalRChat\\wwwroot\\js\\DOMPurify.js",
+              "RelativeToolTip": "SignalRChat\\wwwroot\\js\\DOMPurify.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-23T11:28:49.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PhilippeZeder\\source\\repos\\SignalRChat\\SignalRChat\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRChat\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PhilippeZeder\\source\\repos\\SignalRChat\\SignalRChat\\Pages\\Index.cshtml",
+              "RelativeToolTip": "SignalRChat\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T07:57:57.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chat.js",
+              "DocumentMoniker": "C:\\Users\\PhilippeZeder\\source\\repos\\SignalRChat\\SignalRChat\\wwwroot\\js\\chat.js",
+              "RelativeDocumentMoniker": "SignalRChat\\wwwroot\\js\\chat.js",
+              "ToolTip": "C:\\Users\\PhilippeZeder\\source\\repos\\SignalRChat\\SignalRChat\\wwwroot\\js\\chat.js",
+              "RelativeToolTip": "SignalRChat\\wwwroot\\js\\chat.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-23T08:08:07.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\PhilippeZeder\\source\\repos\\SignalRChat\\SignalRChat\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "SignalRChat\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\PhilippeZeder\\source\\repos\\SignalRChat\\SignalRChat\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "SignalRChat\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:54:17.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
